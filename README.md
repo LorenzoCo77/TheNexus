@@ -1,8 +1,6 @@
 # TheNexus
 Creamos soluciones sostenibles
 
-#TheNexus
-
 ## Miembros 
 - Lorenzo Coelho - Coordinación
 - Amin Aouzal - Búsqueda
