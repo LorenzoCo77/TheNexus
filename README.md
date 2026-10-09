@@ -14,9 +14,9 @@ Nos repartiremos las tareas en funció0n de las responsabilidades y las abilidad
 
 # Reparto inicial de responsabilidades 
 
-• Coordinación: organiza las tareas y comprueba los plazos. Lorenzo
-• Documentación: revisa que los documentos estén completos i bien  redactados. Iker, Amin y Lorenzo
-• Búsqueda: comprueba las fonts i recopila información. Amin
+• Coordinación: organiza las tareas y comprueba los plazos. Lorenzo <br>
+• Documentación: revisa que los documentos estén completos i bien  redactados. Iker, Amin y Lorenzo <br>
+• Búsqueda: comprueba las fonts i recopila información. Amin <br>
 • Gestión técnica i audiovisual: organitza el repositorio y los recursos  digitales. Iker
 
 ## Primera reflexión
