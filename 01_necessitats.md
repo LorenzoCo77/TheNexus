@@ -15,13 +15,16 @@ Efecte illa de calor urbana L'alta concentració de formigó i l'asfalt, combina
 
 3. Seleccioneu entre cinc i vuit necessitats
 
-4. Taula de necessitats detectades
-Necessitat	Tipus	Persones o col·lectius afectats	Activitat econòmica relacionada	Evidència
-Contaminació de l’aire	Ambiental, perquè perjudica el medi ambient i la salut.	Alumnat, professorat, famílies i veïnat, especialment persones amb problemes respiratoris.	Transport, automoció i serveis de mobilitat.	La contaminació de l’aire és un problema de salut relacionat amb el trànsit i les emissions.
-Generació de residus i reciclatge	Ambiental, perquè consumeix recursos i augmenta la contaminació.	Alumnat, professorat, personal de neteja, famílies i veïnat.	Comerç, restauració i empreses de reciclatge.	El 2022, Espanya va generar 467 kg de residus municipals per habitant i va reciclar el 39% segons l’antiga metodologia de càlcul.
-Mobilitat sostenible i soroll	Ambiental i social, perquè el trànsit provoca contaminació, soroll i problemes de salut.	Alumnat, famílies, vianants, ciclistes i veïnat.	Transport públic, automoció i carrils bici.	Aproximadament una de cada cinc persones de la UE està exposada a nivells perjudicials de soroll del trànsit.
-Problemes d’accessibilitat	Social i econòmic, perquè dificulta la igualtat i requereix inversions per adaptar els espais.	Persones amb discapacitat, gent gran i persones amb mobilitat reduïda.	Construcció, arquitectura, urbanisme i transport públic.	La legislació espanyola reconeix el dret a l’accessibilitat universal de les persones amb discapacitat.
-Recollida i repartiment d’aliments	Social, ambiental i econòmic, perquè ajuda les persones vulnerables i redueix el malbaratament.	Famílies amb dificultats econòmiques, persones grans, comerços i entitats socials.	Agricultura, supermercats, restauració i transport.	La Comissió Europea promou la redistribució d’aliments sobrants per evitar el malbaratament i ajudar les persones necessitades.
+
+## 4. Taula de necessitats detectades
+
+| Necessitat | Tipus | Persones o col·lectius afectats | Activitat econòmica relacionada | Evidència |
+|---|---|---|---|---|
+| **Contaminació de l’aire** | Ambiental, perquè perjudica el medi ambient i la salut. | Alumnat, professorat, famílies i veïnat, especialment persones amb problemes respiratoris. | Transport, automoció i serveis de mobilitat. | La contaminació de l’aire és un problema de salut relacionat amb el trànsit i les emissions. |
+| **Generació de residus i reciclatge** | Ambiental, perquè consumeix recursos i augmenta la contaminació. | Alumnat, professorat, personal de neteja, famílies i veïnat. | Comerç, restauració i empreses de reciclatge. | El 2022, Espanya va generar 467 kg de residus municipals per habitant i va reciclar el 39% segons l’antiga metodologia de càlcul. |
+| **Mobilitat sostenible i soroll** | Ambiental i social, perquè el trànsit provoca contaminació, soroll i problemes de salut. | Alumnat, famílies, vianants, ciclistes i veïnat. | Transport públic, automoció i carrils bici. | Aproximadament una de cada cinc persones de la UE està exposada a nivells perjudicials de soroll del trànsit. |
+| **Problemes d’accessibilitat** | Social i econòmic, perquè dificulta la igualtat i requereix inversions per adaptar els espais. | Persones amb discapacitat, gent gran i persones amb mobilitat reduïda. | Construcció, arquitectura, urbanisme i transport públic. | La legislació espanyola reconeix el dret a l’accessibilitat universal de les persones amb discapacitat. |
+| **Recollida i repartiment d’aliments** | Social, ambiental i econòmic, perquè ajuda les persones vulnerables i redueix el malbaratament. | Famílies amb dificultats econòmiques, persones grans, comerços i entitats socials. | Agricultura, supermercats, restauració i transport. | La Comissió Europea promou la redistribució d’aliments sobrants per evitar el malbaratament i ajudar les persones necessitades. |
 
 1. Quines necessitats considereu més urgents? Per què? 
 La contaminació de l'aire, la mobilitat sostenible i el soroll es poden considerar les més urgents a causa del seu impacte directe i immediat en la salut diària dels menors i persones majors i malaltes especialment.
