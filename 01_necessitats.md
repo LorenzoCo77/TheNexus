@@ -1,4 +1,3 @@
-2345678
 1. Exploreu el vostre entorn 
 Observeu i analitzeu algun dels entorns següents: 
 • El centre educatiu. 
