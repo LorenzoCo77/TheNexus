@@ -16,7 +16,7 @@
 
 ## 2. Definición del reto
 
-**¿Cómo podríamos mejorar la salud de grandes y pequeños por igual?**
+**¿Cómo podríamos combatir la soledad no deseada y mejorar la salud mental y física de personas de todas las edades, fomentando las relaciones sociales, la compañía y el apoyo mutuo?**
 
 ### 1. ¿En qué consiste el problema?
 
