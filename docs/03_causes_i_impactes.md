@@ -24,4 +24,3 @@ Falta de espacios comunitarios y redes de barrio
 Estilo de vida sedentario
 Brecha digital y falta de herramientas accesibles (ODS 10)
 Pérdida de la red social activa
-
